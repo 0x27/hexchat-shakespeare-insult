@@ -1,2 +1,23 @@
 # hexchat-shakespeare-insult
-Shakespearean Insult generator script for HexChat IRC client.
+
+## What?
+Shakespearean Insult generator script for IRSSI IRC client. Based on [this image from twitter](https://pbs.twimg.com/media/B9b6c0PIEAAJvao.jpg)
+Ported from my [IRSSI script](https://github.com/0x27/irssi-shakespeare-insult) at the request of Reddit users.
+
+## General Installation Notes
+Drop it into your "addons" directory in Hexchat, and load it with "/py load shakespeare.py" or add to autoload. Reasonably painless to make work, compared to the absolute motherfuckery that was configuring irssi-python.
+
+## Usage Notes
+To use, just do /shakespeare to insult no one in particular (the open query window), or /shakespeare $nick to insult a specific user in the current channel.
+
+## Screenshot
+insert screenshot here
+
+## Licence
+Licenced under the [WTFPL](http://wtfpl.net), so do what you fucking want.
+
+## Donate
+BTC welcome, send to: 1F3sPdKSEL9mM8LBnymGG8Dv3QCPDSRYeh :>
+
+# Bug Reports
+Use the issue tracker. Its probably buggy as all hell, as it was my first dalliance with the Hexchat python API.
