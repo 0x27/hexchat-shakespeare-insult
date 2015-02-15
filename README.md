@@ -11,7 +11,7 @@ Drop it into your "addons" directory in Hexchat, and load it with "/py load shak
 To use, just do /shakespeare to insult no one in particular (the open query window), or /shakespeare $nick to insult a specific user in the current channel.
 
 ## Screenshot
-insert screenshot here
+![Screencap](https://raw.githubusercontent.com/0x27/hexchat-shakespeare-insult/master/screenshot.png)
 
 ## Licence
 Licenced under the [WTFPL](http://wtfpl.net), so do what you fucking want.
