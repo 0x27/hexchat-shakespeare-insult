@@ -22,3 +22,6 @@ BTC welcome, send to: 1F3sPdKSEL9mM8LBnymGG8Dv3QCPDSRYeh :>
 
 # Bug Reports
 Use the issue tracker. Its probably buggy as all hell, as it was my first dalliance with the Hexchat python API.
+
+# Known Bugs
+If you load the script multiple times, it will execute multiple copies of itself every time you call it. For example, if you load it 6 times, one call to it will blast out 6 insults. I have not yet figured out how to make it "blocking", and due to the sheer amusement value of it, have decided to not fix this until someone actually files a report :P
