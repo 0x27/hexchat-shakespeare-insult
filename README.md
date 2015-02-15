@@ -2,6 +2,7 @@
 
 ## What?
 Shakespearean Insult generator script for IRSSI IRC client. Based on [this image from twitter](https://pbs.twimg.com/media/B9b6c0PIEAAJvao.jpg)
+
 Ported from my [IRSSI script](https://github.com/0x27/irssi-shakespeare-insult) at the request of Reddit users.
 
 ## General Installation Notes
